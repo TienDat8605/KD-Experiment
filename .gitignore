@@ -1,0 +1,10 @@
+.env
+.env.example
+source/
+generate_qa.py
+venv
+__pycache__
+cache*
+final_dataset
+checkpoint*
+results
